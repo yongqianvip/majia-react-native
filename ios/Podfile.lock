@@ -1,0 +1,10 @@
+PODS:
+  - KeyChain-UDID (0.0.1)
+
+DEPENDENCIES:
+  - KeyChain-UDID
+
+SPEC CHECKSUMS:
+  KeyChain-UDID: 6c147ad17dacf24c66d9e9ec1c777c67b8618461
+
+COCOAPODS: 0.39.0
